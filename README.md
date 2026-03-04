@@ -6,8 +6,6 @@
 
 ## 🚀 Projects
 
-## 🚀 Projects
-
 - 🚁 **Drone Simulator (C++ / OpenGL)** – real-time drone simulation with 3D visualization, physics modeling and flight control experiments.
 - 🧤 **Sign Language Translation Glove** *(in progress)* – embedded system using flex sensors and a microcontroller to translate sign language gestures into text or speech.
 - 📦 **Packing Optimization Tool (React)** – algorithmic web application minimizing unused space in packaging processes.
