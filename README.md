@@ -16,5 +16,5 @@
 Python • PyTorch • OpenCV • C++ • SQL • Linux • Git
 
 ## 📫 Contact
-LinkedIn: [...](https://www.linkedin.com/in/%C5%82ukasz-orluk-209185310/)
+LinkedIn: (https://www.linkedin.com/in/%C5%82ukasz-orluk-209185310/)
 Email: lukaszorlukk@gmail.com
