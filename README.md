@@ -14,7 +14,7 @@
 - 🥋 **Interactive Karate Training Target** – smart training shield with impact sensors connected to an Android mobile application for measuring strike strength, reaction time, and training statistics.
 
 ## 🛠 Tech Stack
-Python • PyTorch • OpenCV • C++ • SQL • Linux • Git
+Python • PyTorch • OpenCV • C++ • SQL • Linux • Git • OPENGL • REACT • JAVA 
 
 ## 📫 Contact
 LinkedIn: (https://www.linkedin.com/in/%C5%82ukasz-orluk-209185310/)
